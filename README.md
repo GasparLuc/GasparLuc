@@ -13,16 +13,3 @@ I also build Telegram bots and alerting systems for internal processes, whenever
 Feel free to reach out or take a look at my repositories.
 
 
------------------------------------------------------------------------------------------------------------------------------
-
-## Hola, soy Gaspar
-
-Soy desarrollador argentino y me dedico a construir presencia online para empresas y emprendedores: sitios web, automatizaciones, campañas publicitarias y todo lo que esté en el medio.
-
-Me muevo cómodo en el cruce entre lo técnico y lo comercial. Por un lado, desarrollo sitios web a medida y paneles internos para clientes que necesitan algo más específico de lo que ofrece cualquier plantilla. Por el otro, gestiono estrategias de SEO, campañas de Google Ads y Meta Ads orientadas a generar resultados medibles, no impresiones vacías.
-
-Del lado de programación trabajo principalmente con Python y JavaScript. Uso n8n para orquestar automatizaciones complejas, Puppeteer y Playwright para scraping, y Docker sobre VPS propio para desplegar servicios. Me interesan especialmente los proyectos que requieren integrar múltiples herramientas y APIs en flujos coherentes.
-
-También desarrollo bots de Telegram y sistemas de alertas para procesos internos, cuando el objetivo es reducir trabajo manual repetitivo.
-
-Si querés contactarme o ver en qué estoy trabajando, podés escribirme o revisar mis repositorios.
